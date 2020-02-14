@@ -3,4 +3,4 @@ Code for Kalman-LSTM
 
 Install the package and its dependencies with the below comment
 
-] add git@github.com:klstm/icml2020.git
+`] add git@github.com:klstm/icml2020.git`
