@@ -1,4 +1,4 @@
-# icml2020
+# klstm
 Code for Kalman-LSTM
 
 Install the package and its dependencies with the below command
