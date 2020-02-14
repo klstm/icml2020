@@ -1,0 +1,8 @@
+name = "KLSTM"
+uuid = "c2a97da9-b761-4837-9ebb-af7cd377387d"
+authors = ["Anonym <klstm2020@gmail.com>"]
+version = "1.0"
+
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
